@@ -74,6 +74,19 @@ col2 row1 | col2 row2
 - [ ] 记录需要刻意练习的清单
 
 
+## 如何高光显示代码
+
+```python
+def teacherYouself(anything):
+    while not created():
+        learn()
+        prictice()
+    teacherYouself(another)
+    
+teacherYouself(coding)
+    
+```
+
 
   
 
